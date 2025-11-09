@@ -9,6 +9,7 @@ How to use this project
 5. Enter 'npm install' in the console to complete the model
 6. Finally, enter 'npm start' to start the project
 
+
 **Additional supplement
 1. All chat text will be displayed in the db.json file.
 2. Provides local caching, existing alongside the db file, and allows local cache to be deleted via a button.
